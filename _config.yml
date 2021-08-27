@@ -29,6 +29,7 @@ domain: "commatter.github.io"
 url: "https://commatter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  commatter
+linkedin: matthew-gardner-22391985
 
 # Build settings
 theme: minima
